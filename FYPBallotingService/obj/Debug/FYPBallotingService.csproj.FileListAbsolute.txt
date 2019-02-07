@@ -1,0 +1,11 @@
+C:\Users\pan\source\repos\FYPBallotingService\FYPBallotingService\obj\Debug\FYPBallotingService.csproj.CoreCompileInputs.cache
+C:\Users\pan\source\repos\FYPBallotingService\FYPBallotingService\bin\Debug\FYPBallotingService.exe.config
+C:\Users\pan\source\repos\FYPBallotingService\FYPBallotingService\bin\Debug\FYPBallotingService.exe
+C:\Users\pan\source\repos\FYPBallotingService\FYPBallotingService\bin\Debug\FYPBallotingService.pdb
+C:\Users\pan\source\repos\FYPBallotingService\FYPBallotingService\obj\Debug\FYPBallotingService.exe
+C:\Users\pan\source\repos\FYPBallotingService\FYPBallotingService\obj\Debug\FYPBallotingService.pdb
+C:\Users\pan\source\repos\FYPBallotingService\FYPBallotingService\obj\Debug\FYPBallotingService.ProjectInstaller.resources
+C:\Users\pan\source\repos\FYPBallotingService\FYPBallotingService\obj\Debug\FYPBallotingService.csproj.GenerateResource.cache
+C:\Users\pan\source\repos\FYPBallotingService\FYPBallotingService\bin\Debug\FYPBallotingService.cs
+C:\Users\pan\source\repos\FYPBallotingService\FYPBallotingService\bin\Debug\FYPBallotingService.Designer.cs
+C:\Users\pan\source\repos\FYPBallotingService\FYPBallotingService\obj\Debug\FYPBallotingService.csprojAssemblyReference.cache

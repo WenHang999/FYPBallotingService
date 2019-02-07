@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FYPBallotingService", "FYPBallotingService\FYPBallotingService.csproj", "{66ABC793-ADBE-4E99-942C-9F024C4716B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FYPDatabase", "..\WebApplication5\WebApplication5\FYPDatabase.csproj", "{458AA30D-2805-4831-BD8A-1C1F6414C180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66ABC793-ADBE-4E99-942C-9F024C4716B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66ABC793-ADBE-4E99-942C-9F024C4716B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66ABC793-ADBE-4E99-942C-9F024C4716B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66ABC793-ADBE-4E99-942C-9F024C4716B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{458AA30D-2805-4831-BD8A-1C1F6414C180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{458AA30D-2805-4831-BD8A-1C1F6414C180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{458AA30D-2805-4831-BD8A-1C1F6414C180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{458AA30D-2805-4831-BD8A-1C1F6414C180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B240E947-BC02-4ED1-9273-933446AD73EC}
+	EndGlobalSection
+EndGlobal

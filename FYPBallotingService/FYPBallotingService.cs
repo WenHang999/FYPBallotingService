@@ -132,7 +132,7 @@ namespace FYPBallotingService
                 mail.Subject = strSubject;
                 mail.Body = strBody;
                 SmtpServer.Port = 587;
-                SmtpServer.Credentials = new NetworkCredential("apikey", "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");
+                SmtpServer.Credentials = new NetworkCredential("apikey", "your api key here");
                 SmtpServer.EnableSsl = true;
                 SmtpServer.Send(mail);
             }
